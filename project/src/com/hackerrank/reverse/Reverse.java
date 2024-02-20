@@ -1,4 +1,4 @@
-package project;
+package com.hackerrank.reverse;
 
 import java.util.Scanner;
 

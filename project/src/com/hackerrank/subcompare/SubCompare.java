@@ -1,4 +1,4 @@
-package project;
+package com.hackerrank.subcompare;
 
 import java.util.ArrayList;
 import java.util.List;

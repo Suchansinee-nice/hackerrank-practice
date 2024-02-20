@@ -1,4 +1,4 @@
-package project;
+package com.hackerrank.substring;
 
 import java.util.Scanner;
 
