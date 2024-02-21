@@ -1,20 +1,15 @@
-Given a string, S , and an integer, K , complete the function so that it finds the lexicographically smallest and largest substrings of length K.
+A palindrome is a word, phrase, number, or other sequence of characters which reads the same backward or forward.
+Given a string A, print Yes if it is a palindrome, print No otherwise.
 
-### Returns
-- string: the string ' + "\n" + ' where and are the two substrings
-
-### Example
-- String S = "welcometojava";
-- int k = 3;
+### Constraints
+-  A will consist at most 50 lower case english letters.
 
   ### Sample Input
   ```
-  welcometojava
-  3
+  madam
   ```
 
   ### Sample Output
   ```
-  ava
-  wel
+  Yes
   ```
